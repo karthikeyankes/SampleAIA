@@ -2,7 +2,7 @@ package com.iwebautomata.core.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//sample
 @SpringBootApplication
 public class SampleAiaApplication {
 
